@@ -1,0 +1,8 @@
+prefix=/home/artem/ws_moveit/devel/.private/control_script
+
+Name: control_script
+Description: Description of control_script
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

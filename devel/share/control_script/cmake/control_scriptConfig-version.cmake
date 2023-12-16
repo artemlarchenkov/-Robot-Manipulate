@@ -1,0 +1,1 @@
+/home/artem/ws_moveit/devel/.private/control_script/share/control_script/cmake/control_scriptConfig-version.cmake

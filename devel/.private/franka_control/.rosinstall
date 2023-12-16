@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/artem/ws_moveit/devel/.private/franka_control/setup.sh
