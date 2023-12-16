@@ -1,0 +1,2 @@
+moveit/moveit
+/home/artem/ws_moveit/devel/.private/moveit/cmake.lock /home/artem/ws_moveit/devel/./cmake.lock
